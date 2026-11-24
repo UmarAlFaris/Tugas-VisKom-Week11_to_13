@@ -1,0 +1,16 @@
+torch>=2.13,<2.14
+torchvision>=0.28,<0.29
+ultralytics>=8.4.176,<9
+transformers>=4.52,<5
+accelerate>=1.5,<2
+torchmetrics[detection]>=1.7,<2
+pycocotools>=2.0.7,<3
+numpy>=2,<3
+scipy>=1.13,<2
+pillow>=11,<13
+PyYAML>=6,<7
+matplotlib>=3.9,<4
+pandas>=2.2,<4
+tqdm>=4.67,<5
+jupyterlab>=4,<5
+ipykernel>=6,<8
